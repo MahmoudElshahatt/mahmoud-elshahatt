@@ -26,6 +26,10 @@ const techCategories = [
     items: ["OOP", "Data Structures & Algorithms", "Problem Solving", "SQL"],
   },
   {
+    title: "Security",
+    items: ["AES Encryption", "RSA Encryption"],
+  },
+  {
     title: "Tools & Workflow",
     items: ["Claude Code", "Git/GitHub", "Jira", "Trello", "Agile", "Scrum"],
   },
