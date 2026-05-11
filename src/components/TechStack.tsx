@@ -27,7 +27,7 @@ const techCategories = [
   },
   {
     title: "Security",
-    items: ["AES Encryption", "RSA Encryption"],
+    items: ["AES Encryption", "RSA Encryption", "SSL Layer Protection"],
   },
   {
     title: "Tools & Workflow",
