@@ -39,17 +39,6 @@ import profix4 from "@/assets/profix-4.webp";
 
 const projects = [
   {
-    title: "Profix",
-    subtitle: "Home Maintenance Services",
-    description: "Profix provides comprehensive home maintenance services including electricity, AC, plumbing, and more — with easy service booking, order tracking, and professional communication with service providers.",
-    techStack: ["Kotlin", "Modularization", "Paging 3", "Socket.IO", "Clean Architecture", "MVVM"],
-    links: [
-      { label: "Client App", url: "https://play.google.com/store/apps/details?id=com.aait.profix.user" },
-      { label: "Provider App", url: "https://play.google.com/store/apps/details?id=com.aait.profix.provider" },
-    ],
-    images: [profix1, profix2, profix3, profix4],
-  },
-  {
     title: "Mehany Express",
     subtitle: "On-demand Maintenance",
     description: "Expert, on-demand maintenance for plumbing, electricity, AC, and cooling with easy booking and transparent pricing. Contributed to order and more flows with the team.",
@@ -68,6 +57,17 @@ const projects = [
       { label: "Delegate App", url: "https://play.google.com/store/apps/details?id=com.aait.elaghaerDelegate" },
     ],
     images: [easywash1, easywash2, easywash3, easywash4],
+  },
+  {
+    title: "Profix",
+    subtitle: "Home Maintenance Services",
+    description: "Profix provides comprehensive home maintenance services including electricity, AC, plumbing, and more — with easy service booking, order tracking, and professional communication with service providers.",
+    techStack: ["Kotlin", "Modularization", "Paging 3", "Socket.IO", "Clean Architecture", "MVVM"],
+    links: [
+      { label: "Client App", url: "https://play.google.com/store/apps/details?id=com.aait.profix.user" },
+      { label: "Provider App", url: "https://play.google.com/store/apps/details?id=com.aait.profix.provider" },
+    ],
+    images: [profix1, profix2, profix3, profix4],
   },
   {
     title: "CarHub",
