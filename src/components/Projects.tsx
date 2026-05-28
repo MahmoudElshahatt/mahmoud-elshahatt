@@ -32,8 +32,23 @@ import restoranti1 from "@/assets/restoranti-1.png";
 import restoranti2 from "@/assets/restoranti-2.png";
 import restoranti3 from "@/assets/restoranti-3.png";
 import restoranti4 from "@/assets/restoranti-4.png";
+import profix1 from "@/assets/profix-1.webp";
+import profix2 from "@/assets/profix-2.webp";
+import profix3 from "@/assets/profix-3.webp";
+import profix4 from "@/assets/profix-4.webp";
 
 const projects = [
+  {
+    title: "Profix",
+    subtitle: "Home Maintenance Services",
+    description: "Profix provides comprehensive home maintenance services including electricity, AC, plumbing, and more — with easy service booking, order tracking, and professional communication with service providers.",
+    techStack: ["Kotlin", "Modularization", "Paging 3", "Socket.IO", "Clean Architecture", "MVVM"],
+    links: [
+      { label: "Client App", url: "https://play.google.com/store/apps/details?id=com.aait.profix.user" },
+      { label: "Provider App", url: "https://play.google.com/store/apps/details?id=com.aait.profix.provider" },
+    ],
+    images: [profix1, profix2, profix3, profix4],
+  },
   {
     title: "Mehany Express",
     subtitle: "On-demand Maintenance",
