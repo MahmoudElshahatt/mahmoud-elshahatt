@@ -127,7 +127,7 @@ const projects = [
 
 const Projects = () => {
   return (
-    <section id="projects" className="py-24 relative">
+    <section id="projects" className="py-16 relative">
       <div className="absolute inset-0 bg-gradient-to-b from-transparent via-primary/5 to-transparent" />
       
       <div className="container px-6 relative z-10">

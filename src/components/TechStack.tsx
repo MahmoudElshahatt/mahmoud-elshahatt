@@ -37,7 +37,7 @@ const techCategories = [
 
 const TechStack = () => {
   return (
-    <section id="tech-stack" className="py-24 relative">
+    <section id="tech-stack" className="py-16 relative">
       <div className="absolute inset-0 bg-gradient-to-b from-transparent via-primary/5 to-transparent" />
       
       <div className="container px-6 relative z-10">
