@@ -4,7 +4,7 @@ import { Mail, Linkedin, Github, MapPin, GraduationCap, Phone } from "lucide-rea
 
 const Contact = () => {
   return (
-    <section id="contact" className="py-24">
+    <section id="contact" className="py-16">
       <div className="container px-6">
         <motion.div
           initial={{ opacity: 0, y: 20 }}

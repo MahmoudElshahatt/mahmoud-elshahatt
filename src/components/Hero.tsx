@@ -31,7 +31,7 @@ const experiences = [
 
 const Hero = () => {
   return (
-    <section className="relative min-h-screen flex items-center justify-center overflow-hidden py-24">
+    <section className="relative min-h-screen flex items-center justify-center overflow-hidden py-16">
       {/* Background gradient */}
       <div 
         className="absolute inset-0 opacity-60"
