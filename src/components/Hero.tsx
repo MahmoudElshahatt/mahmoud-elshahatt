@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import { ArrowDown, Briefcase, Download, Github, Linkedin, Mail } from "lucide-react";
+import { Briefcase, Download, Github, Linkedin, Mail } from "lucide-react";
 
 const experiences = [
   {
